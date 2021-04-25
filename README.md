@@ -1,4 +1,4 @@
-MARS ROVER ()
+MARS ROVER
 
 When the rover touches down on Mars, it is initialised with its current coordinates and the direction it is facing. 
 
